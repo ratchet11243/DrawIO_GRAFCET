@@ -14,7 +14,7 @@ It is recommended to add the URL of the GRAFCET.xml file to the draw.io configur
 }
 ```
 
-To ensure that the library is automatically updated, you should update the settings JSON, for example:
+To ensure that the library is automatically updated, you should update the "libraries"-parameter in the settings JSON, for example:
 
 ```json
 {
