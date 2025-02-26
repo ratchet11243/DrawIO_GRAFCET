@@ -27,4 +27,5 @@ To ensure that the library is automatically updated, you should update the setti
   ],
   "libraries": "general;basic;GRAFCET",
   ...
+}
 ```
