@@ -29,3 +29,9 @@ To ensure that the library is automatically updated, you should update the "libr
   ...
 }
 ```
+
+#### Branching Transitions
+Currently, the implementation of transition-connectors means that transitions can be difficult to place on a vertical line, in accordance with the standard.
+The solution for this is to alter the relative placement of the transition bar-object, via that object's 'Arrange'-tab, as seen below.
+
+![An image showing the 'Arrange'-tab for a transition's horizontal bar-object in draw.io](images/branchTransitionWorkaroundBranch.png)
